@@ -20,5 +20,10 @@ public class DemoTest {
 	public void test_is_triangle_2() {
 		assertTrue(Demo.isTriangle(5, 12, 13));
 	}
+	
+	@Test
+	public void test_is_triangle_3() {
+		assertTrue(Demo.isTriangle(5, 13, 12));		
+	}
 
 }
