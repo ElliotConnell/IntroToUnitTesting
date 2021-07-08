@@ -4,9 +4,9 @@
  * {@link Demo#main(String[])} and 
  * {@link Demo#isTriangle(double, double, double)}).
  */
-import java.io.ByteArrayInputStream;
-import java.io.ByteArrayOutputStream;
-import java.io.PrintStream;
+//import java.io.ByteArrayInputStream;
+//import java.io.ByteArrayOutputStream;
+//import java.io.PrintStream;
 import static org.junit.Assert.*;
 import org.junit.Test;
 
