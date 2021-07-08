@@ -6,7 +6,7 @@
  */
 //import java.io.ByteArrayInputStream;
 //import java.io.ByteArrayOutputStream;
-//import java.io.PrintStream;
+import java.io.PrintStream;
 import static org.junit.Assert.*;
 import org.junit.Test;
 
